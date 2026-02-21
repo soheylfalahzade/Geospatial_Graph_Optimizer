@@ -1,2 +1,7 @@
-# Telegram_Business_Bot_Suite
-Scalable Telegram bots integrated with databases for business automation and customer support
+# Telegram Business Bot Suite
+Automation for businesses using the Telegram Bot API.
+
+## Functionalities
+- Automated inventory checking via SQLite.
+- User authentication and role management.
+- Integration with payment gateways (Local/International).
