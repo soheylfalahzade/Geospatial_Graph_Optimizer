@@ -2,6 +2,8 @@
 
 A high-performance geospatial routing and network optimization engine designed to compute optimal paths on real-world road networks using OpenStreetMap (OSM) data. 
 
+![Optimized Route Demo](assets/route_demo.png)
+
 ---
 
 ## 🚀 Key Performance Indicators (KPIs)
